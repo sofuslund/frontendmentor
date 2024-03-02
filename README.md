@@ -6,6 +6,7 @@
 
 | Live site link | Repo link | Technologies used |
 | -------------- | --------- | ----------------- |
+| [Rest Countries API](https://fm07-rest-countries-api.netlify.app/#/home) | [fm-rest-countries-api](https://github.com/sofuslund/fm-rest-countries-api) | Vue.js, Tailwind CSS, Typescript, Vue Router |
 | [Calculator app](https://fm06-calculator-app.netlify.app/) | [fm-calculator-app](https://github.com/sofuslund/fm-calculator-app) | Vue.js, Tailwind CSS, TypeScript |
 | [Tip calculator app](https://fm03-tip-calculator-app.netlify.app/) | [fm-tip-calculator-app](https://github.com/sofuslund/fm-tip-calculator-app) | Vue.js |
 | [FAQ accordion card](https://fm05-faq-accordion-card.netlify.app/) | [fm-faq-accordion-card](https://github.com/sofuslund/fm-faq-accordion-card) | Vue.js, Tailwind CSS |
